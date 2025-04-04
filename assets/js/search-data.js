@@ -30,16 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+        },{id: "news-workshop-announcement-interpretability-in-llms-using-geometric-and-statistical-methods-i-am-organizing-a-workshop-taking-place-on-may-27-28-where-we-will-explore-recent-developments-in-interpretability-for-large-language-models-llms-usig-geometric-and-statistical-methods-the-workshop-aims-to-provide-an-accessible-introduction-to-these-approaches-discussing-their-potential-to-address-key-challenges-in-ai-alignment-safety-and-efficiency-while-providing-an-overview-of-the-current-research-problems-in-llm-interpretability-for-further-details-check-out-the-workshop-page",
+          title: '🚨 Workshop Announcement: Interpretability in LLMs using Geometric and Statistical Methods I am...',
           description: "",
           section: "News",},{
         id: 'social-email',
