@@ -30,7 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-workshop-announcement-interpretability-in-llms-using-geometric-and-statistical-methods-i-am-organizing-a-workshop-taking-place-on-may-27-28-where-we-will-explore-recent-developments-in-interpretability-for-large-language-models-llms-usig-geometric-and-statistical-methods-the-workshop-aims-to-provide-an-accessible-introduction-to-these-approaches-discussing-their-potential-to-address-key-challenges-in-ai-alignment-safety-and-efficiency-while-providing-an-overview-of-the-current-research-problems-in-llm-interpretability-for-further-details-check-out-the-workshop-page",
+        },{id: "news-workshop-announcement-interpretability-in-llms-using-geometric-and-statistical-methods-i-am-organizing-a-workshop-taking-place-on-may-27-28-where-we-will-explore-recent-developments-in-interpretability-for-large-language-models-llms-using-geometric-and-statistical-methods-the-workshop-aims-to-provide-an-accessible-introduction-to-these-approaches-discussing-their-potential-to-address-key-challenges-in-ai-alignment-safety-and-efficiency-while-providing-an-overview-of-the-current-research-problems-in-llm-interpretability-for-further-details-check-out-the-workshop-page",
           title: '🚨 Workshop Announcement: Interpretability in LLMs using Geometric and Statistical Methods I am...',
           description: "",
           section: "News",},{
