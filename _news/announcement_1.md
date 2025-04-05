@@ -11,4 +11,4 @@ will explore recent developments in interpretability for large language models (
 The workshop aims to provide an accessible introduction to these approaches, 
 discussing their potential to address key challenges in AI alignment, safety, and efficiency, 
 while providing an overview of the current research problems in LLM interpretability. <br>
-🔗 For further details, check out the [**workshop page**](https://www.lesswrong.com/posts/bTzk32t9aWJwLuNhi/workshop-interpretability-in-llms-using-geometric-and).
+[🔗](https://www.lesswrong.com/posts/bTzk32t9aWJwLuNhi/workshop-interpretability-in-llms-using-geometric-and) For further details, check out the [**workshop page**](https://www.lesswrong.com/posts/bTzk32t9aWJwLuNhi/workshop-interpretability-in-llms-using-geometric-and).
