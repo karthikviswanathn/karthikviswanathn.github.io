@@ -1,6 +1,7 @@
 github_repos:
   - RitAreaSciencePark/token_geometry
   - RitAreaSciencePark/ZigZagLLMs
+  - karthikviswanathn/cumulant-expansion-llm
 
 github_users:
   - karthikviswanathn

@@ -68,6 +68,13 @@
     }
   ],
   "publications": [
+      {
+      "name": "Probing Geometry of Next Token Prediction Using Cumulant Expansion of the Softmax Entropy",
+      "publisher": "ICML 2025: Workshop on High-dimensional Learning Dynamics",
+      "releaseDate": "2025-07-01",
+      "url": "https://openreview.net/forum?id=CyHJMbQlOk",
+      "summary": "We introduce a cumulant-based framework to analyze how transformer models capture higher-order statistics during next-token prediction. By expanding softmax entropy around a reference distribution, we extract closed-form cumulants that reflect increasing statistical complexity. Applied to GPT-2 and Pythia, we find that structured prompts show layerwise growth and saturation, while shuffled prompts remain flat—revealing how models internalize meaningful context through higher-order correlations."
+    },
     {
       "name": "The Geometry of Tokens in Internal Representations of Large Language Models",
       "publisher": "arXiv",
@@ -76,7 +83,7 @@
     },
     {
       "name": "Persistent Topological Features in Large Language Models",
-      "publisher": "arXiv",
+      "publisher": "Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)",
       "releaseDate": "2024-10-14",
       "url": "https://arxiv.org/abs/2410.11042",
       "summary": "We present a novel framework based on zigzag persistence, a method in topological data analysis (TDA) to describe data undergoing dynamic transformations across layers of a large language models. As a practical application, we leverage persistence similarity to identify and prune redundant layers, demonstrating comparable performance to state-of-the-art methods across several benchmark datasets."

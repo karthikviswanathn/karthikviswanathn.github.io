@@ -8,16 +8,17 @@ profile:
   align: right
   image: board_pic_2.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>C4.273a,</p>
-    <p>Science Park 904,</p>
-    <p>Amsterdam, Netherlands</p>
 news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
 I am a final-year PhD student at the University of Amsterdam in the Institute of Physics, 
-working on the application of topological data analysis to understand the large scale structure
-of the universe and more recently, on interpretability in LLMs.
+working on the interpretability of large language models application. Prior to this, I was working on
+analyzing the large scale structure of the universe using topological data analysis.
 
-Here is my [LessWrong profile](https://www.lesswrong.com/users/karthik-viswanathan).
+My interdisciplinary journey began with **competitive programming**, evolved 
+through developing machine learning models as a **surveillance analyst** at Goldman Sachs, 
+and deepened during my master's studies in **theoretical physics**. 
+This blend of algorithmic thinking, machine learning experience, and theoretical physics
+provides me with a distinctive perspective for bridging computational and theoretical
+approaches to scientific research.
