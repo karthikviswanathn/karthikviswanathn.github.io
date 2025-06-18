@@ -58,11 +58,11 @@ ninja.data = [{
           window.open("https://github.com/karthikviswanathn", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/2791165", "_blank");
+          window.open("https://www.linkedin.com/in/karthik-viswanathan-6b8a0111a", "_blank");
         },
       },{
         id: 'social-lesswrong',
