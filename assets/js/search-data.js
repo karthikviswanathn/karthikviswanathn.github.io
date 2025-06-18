@@ -33,7 +33,7 @@ ninja.data = [{
         },{id: "news-workshop-announcement-interpretability-in-llms-using-geometric-and-statistical-methods-i-am-organizing-a-workshop-taking-place-on-may-27-28-where-we-will-explore-recent-developments-in-interpretability-for-large-language-models-llms-using-geometric-and-statistical-methods-for-further-details-check-out-the-workshop-page",
           title: 'Workshop Announcement: Interpretability in LLMs using Geometric and Statistical Methods I am organizing...',
           description: "",
-          section: "News",},{id: "news-i-m-attending-icml-2025-where-i-ll-be-presenting-some-of-my-recent-work-on-interpretability-in-large-language-models-main-conference-persistent-topological-features-in-large-language-models-workshop-on-high-dimensional-learning-dynamics-probing-geometry-of-next-token-prediction-using-cumulant-expansion-of-the-softmax-entropy",
+          section: "News",},{id: "news-i-m-attending-icml-2025-where-i-ll-be-presenting-some-of-my-recent-work-on-interpretability-in-large-language-models-conference-persistent-topological-features-in-large-language-models-workshop-on-high-dimensional-learning-dynamics-probing-geometry-of-next-token-prediction-using-cumulant-expansion-of-the-softmax-entropy",
           title: 'I’m attending ICML 2025, where I’ll be presenting some of my recent work...',
           description: "",
           section: "News",},{
