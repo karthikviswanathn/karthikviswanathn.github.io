@@ -757,6 +757,13 @@ footer.sticky-bottom {
 
       .title {
         font-weight: bolder;
+        a {
+          color: #4169E1;
+
+          &:hover {
+            color: #4169E1;
+          }
+        }
       }
 
       .author {
