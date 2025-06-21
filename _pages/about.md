@@ -19,6 +19,4 @@ analyzing the large scale structure of the universe using topological data analy
 My interdisciplinary journey began with **competitive programming**, progressed 
 through developing machine learning models as a **surveillance analyst** at Goldman Sachs, 
 and was further enriched during my master's studies in **theoretical physics**. 
-This diverse background has enabled me to learn new concepts and adapt to new
-domains relatively easily, allowing me to contribute to both implementation and
-theoretical aspects of scientific research.
+This diverse background has enabled me to adapt to new domains relatively easily, allowing me to contribute to both implementation and theoretical aspects of scientific research.
