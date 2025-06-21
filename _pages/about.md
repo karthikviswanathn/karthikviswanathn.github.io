@@ -16,9 +16,9 @@ I am a final-year PhD student at the University of Amsterdam in the Institute of
 working on the interpretability of large language models application. Prior to this, I was working on
 analyzing the large scale structure of the universe using topological data analysis.
 
-My interdisciplinary journey began with **competitive programming**, evolved 
+My interdisciplinary journey began with **competitive programming**, progressed 
 through developing machine learning models as a **surveillance analyst** at Goldman Sachs, 
-and deepened during my master's studies in **theoretical physics**. 
+and was further enriched during my master's studies in **theoretical physics**. 
 This diverse background has enabled me to learn new concepts and adapt to new
 domains relatively easily, allowing me to contribute to both implementation and
 theoretical aspects of scientific research.
