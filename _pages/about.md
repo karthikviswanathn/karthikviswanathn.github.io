@@ -18,5 +18,8 @@ analyzing the large scale structure of the universe using topological data analy
 
 My interdisciplinary journey began with **competitive programming**, progressed 
 through developing machine learning models as a **surveillance analyst** at Goldman Sachs, 
-and was further enriched during my master's studies in **theoretical physics**. 
+and was enriched during my master's in **theoretical physics**. 
 My cross-domain exposure has allowed me to transition smoothly across disciplines, enabling meaningful contributions to both practical implementations and theoretical investigations in scientific research.
+
+**I’m currently seeking research roles in AI interpretability and safety. If you feel my background would be a good fit,
+please feel free to email me.**
