@@ -6,7 +6,7 @@ subtitle: <a href='https://www.uva.nl/en/profile/v/i/k.viswanathan/k.viswanathan
 
 profile:
   align: right
-  image: board_pic_2.jpg
+  image: hike_pic.jpeg
   image_circular: false # crops the image to make it circular
 news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
