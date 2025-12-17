@@ -84,18 +84,47 @@
       "summary": "We introduce a cumulant-based framework to analyze how transformer models capture higher-order statistics during next-token prediction."
     },
     {
+      "name": "The Geometry of Tokens in Internal Representations of Large Language Models",
+      "publisher": "arXiv",
+      "releaseDate": "2025-01-17",
+      "summary": "We investigate the relationship between the geometry of token embeddings and their role in next token prediction."
+    },
+    {
       "name": "Persistent Topological Features in Large Language Models",
-      "publisher": "Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)",
+      "publisher": "ICML 2025",
       "releaseDate": "2024-10-14",
       "url": "https://arxiv.org/abs/2410.11042",
-      "summary": "We present a novel framework based on zigzag persistence, a method in topological data analysis (TDA) to describe data undergoing dynamic transformations across layers of a large language models. As a practical application, we leverage persistence similarity to identify and prune redundant layers, demonstrating comparable performance to state-of-the-art methods across several benchmark datasets."
+      "summary": "We use zigzag persistence to describe data undergoing dynamic transformations across layers of LLMs."
     },
     {
       "name": "Cosmology with Persistent Homology: a Fisher Forecast",
       "publisher": "Journal of Cosmology and Astroparticle Physics",
       "releaseDate": "2024-09-18",
       "url": "https://iopscience.iop.org/article/10.1088/1475-7516/2024/09/034",
-      "summary": "We apply persistent homology to the dark matter halo catalogs, and build a summary statistic for comparison with the joint power spectrum and bispectrum statistic regarding their information content on cosmological parameters and primordial non-Gaussianity. Through a Fisher analysis, we find that constraints from persistent homology are tighter for 8 out of the 10 parameters by margins of 13–50%."
+      "summary": "We apply persistent homology to dark matter halo catalogs and find tighter constraints on cosmological parameters."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "ML Alignment & Theory Scholars Program (MATS 9.0)",
+      "date": "2026-01-01",
+      "issuer": "Simplex AI Safety, Berkeley",
+      "url": "https://www.matsprogram.org/",
+      "summary": "Mentors: Adam Shai & Paul Riechers"
+    },
+    {
+      "name": "Mentorship for Alignment Research Students (MARS 3.0)",
+      "date": "2025-07-01",
+      "issuer": "Geodesic Research, Cambridge",
+      "url": "https://www.cambridgeaisafety.org/mars",
+      "summary": "Architectures for Increased Externalisation of Reasoning. Mentors: Puria Radmard, Cameron Tice & Edward Young"
+    },
+    {
+      "name": "Workshop: Interpretability in LLMs using Geometric and Statistical methods",
+      "date": "2025-05-01",
+      "issuer": "University of Amsterdam",
+      "url": "https://www.lesswrong.com/posts/bTzk32t9aWJwLuNhi/workshop-interpretability-in-llms-using-geometric-and",
+      "summary": "Organized with Jan Pieter van der Schaar"
     }
   ],
   "awards": [
@@ -106,36 +135,18 @@
       "summary": "For exceptional academic performance in the master's program"
     },
     {
-      "title": "ACM ICPC World Finals 2015 (Honorable Mention)",
+      "title": "ACM ICPC World Finals (Honorable Mention)",
       "date": "2015-05-20",
       "awarder": "ACM",
-      "summary": "Represented India in the international collegiate programming contest held in Marrakech, Morocco"
+      "url": "https://codechef.com/icpc/2015",
+      "summary": "Represented India in the international collegiate programming contest"
     },
     {
       "title": "International Olympiad in Informatics Training Camp",
       "date": "2013-05-01",
       "awarder": "IARCS",
+      "url": "https://www.iarcs.org.in/inoi/2013/inoi2013/results_inoi2013.php",
       "summary": "Selected after ranking in top 25 in the Indian National Olympiad in Informatics"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "ML Alignment & Theory Scholars Program (MATS 9.0)",
-      "date": "2026-01-01",
-      "issuer": "Simplex AI Safety, Berkeley",
-      "summary": "Mentors: Adam Shai & Paul Riechers"
-    },
-    {
-      "name": "Mentorship for Alignment Research Students (MARS 3.0)",
-      "date": "2025-07-01",
-      "issuer": "Geodesic Research, Cambridge",
-      "summary": "Architectures for Increased Externalisation of Reasoning. Mentors: Puria Radmard, Cameron Tice & Edward Young"
-    },
-    {
-      "name": "Workshop Organizer: Interpretability in LLMs using Geometric and Statistical methods",
-      "date": "2025-05-01",
-      "issuer": "University of Amsterdam",
-      "summary": "Co-organized with Jan Pieter van der Schaar"
     }
   ],
   "skills": [
