@@ -39,7 +39,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-m-attending-icml-2025-where-i-ll-be-presenting-some-of-my-recent-work-on-interpretability-in-large-language-models-conference-persistent-topological-features-in-large-language-models-workshop-on-high-dimensional-learning-dynamics-probing-geometry-of-next-token-prediction-using-cumulant-expansion-of-the-softmax-entropy",
           title: 'I’m attending ICML 2025, where I’ll be presenting some of my recent work...',
           description: "",
-          section: "News",},{id: "news-i-will-be-participating-in-mats-9-0-ml-alignment-amp-amp-theory-scholars-program-in-berkeley-i-will-be-working-with-adam-shai-and-paul-riechers-simplex-ai-safety-on-interpretability-research",
+          section: "News",},{id: "news-i-will-be-participating-in-mats-9-0-ml-alignment-amp-amp-theory-scholars-program-in-berkeley-i-will-be-working-with-adam-shai-and-paul-riechers-simplex-ai-safety-on-interpreting-chain-of-thought-in-toy-models-using-computational-mechanics",
           title: 'I will be participating in MATS 9.0 (ML Alignment &amp;amp;amp; Theory Scholars Program)...',
           description: "",
           section: "News",},{
