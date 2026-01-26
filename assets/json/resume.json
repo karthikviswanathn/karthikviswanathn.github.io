@@ -32,7 +32,7 @@
       "startDate": "2021-09-01",
       "endDate": "2025-11-30",
       "thesis": "From Language Models to Cosmic Structures: A Geometric Perspective",
-      "advisor": "Dr.Matteo Biagetti and Dr. Jan Pieter van der Schaar"
+      "advisor": "Dr. Matteo Biagetti and Dr. Jan Pieter van der Schaar"
     },
     {
       "institution": "University of Amsterdam",
@@ -65,14 +65,14 @@
       "position": "Surveillance Analyst",
       "startDate": "2017-05-29",
       "endDate": "2019-05-03",
-      "summary": "Developed ML models for anomaly detection in financial data."
+      "summary": "Developed ML models for anomaly detection in financial data. Manager: Prof. Howard Karloff"
     },
     {
       "name": "Goldman Sachs, Bangalore, India",
-      "position": "Summer Analyst",
+      "position": "Summer Intern",
       "startDate": "2016-05-16",
       "endDate": "2016-07-22",
-      "summary": "Implemented fast Personalized PageRank in a MapReduce framework"
+      "summary": "Implemented fast Personalized PageRank in a MapReduce framework. Mentor: Dr. Koushik Balasubramanian"
     }
   ],
   "publications": [
@@ -110,7 +110,7 @@
       "date": "2026-01-01",
       "issuer": "Simplex AI Safety, Berkeley",
       "url": "https://www.matsprogram.org/",
-      "summary": "Mentors: Adam Shai & Paul Riechers"
+      "summary": "Interpreting Chain of Thought in Toy Models using Computational Mechanics. Mentors: Adam Shai & Paul Riechers"
     },
     {
       "name": "Mentorship for Alignment Research Students (MARS 3.0)",
