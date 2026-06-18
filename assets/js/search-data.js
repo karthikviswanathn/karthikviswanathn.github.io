@@ -42,6 +42,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-participating-in-mats-9-0-ml-alignment-amp-amp-theory-scholars-program-in-berkeley-i-will-be-working-with-adam-shai-and-paul-riechers-simplex-ai-safety-on-interpreting-chain-of-thought-in-toy-models-using-computational-mechanics",
           title: 'I will be participating in MATS 9.0 (ML Alignment &amp;amp;amp; Theory Scholars Program)...',
           description: "",
+          section: "News",},{id: "news-i-m-continuing-my-mats-9-0-work-through-the-program-s-extension-phase-in-london-my-research-investigates-the-representation-level-picture-of-alignment-pretraining-comparing-how-models-acquire-a-preference-through-post-training-versus-incorporating-it-directly-during-pretraining-and-what-mechanistic-differences-this-leaves-behind-in-their-internal-representations",
+          title: 'I’m continuing my MATS 9.0 work through the program’s extension phase in London....',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
