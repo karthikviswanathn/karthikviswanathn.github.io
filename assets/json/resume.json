@@ -76,7 +76,28 @@
     }
   ],
   "publications": [
-      {
+    {
+      "name": "TopoFisher: Learning Topological Summary Statistics by Maximizing Fisher Information",
+      "publisher": "Under review",
+      "releaseDate": "2026-05-01",
+      "url": "https://arxiv.org/abs/2605.07720",
+      "summary": "We learn topological summary statistics for cosmological inference by maximizing the Fisher information of persistent homology features."
+    },
+    {
+      "name": "A Transformer Architecture Alteration to Incentivise Externalised Reasoning",
+      "publisher": "Preprint",
+      "releaseDate": "2026-03-01",
+      "url": "https://arxiv.org/abs/2603.21376",
+      "summary": "We modify the transformer architecture to encourage models to externalise their reasoning in the chain of thought."
+    },
+    {
+      "name": "The Intrinsic Dimension of Prompts in Internal Representations of Large Language Models",
+      "publisher": "Transactions on Machine Learning Research (TMLR)",
+      "releaseDate": "2026-01-01",
+      "url": "https://openreview.net/forum?id=rBEgNAslpY",
+      "summary": "We investigate the relationship between the geometry of token embeddings and their role in next token prediction."
+    },
+    {
       "name": "Probing Geometry of Next Token Prediction Using Cumulant Expansion of the Softmax Entropy",
       "publisher": "ICML 2025: Workshop on High-dimensional Learning Dynamics",
       "releaseDate": "2025-07-01",
@@ -84,14 +105,8 @@
       "summary": "We introduce a cumulant-based framework to analyze how transformer models capture higher-order statistics during next-token prediction."
     },
     {
-      "name": "The Geometry of Tokens in Internal Representations of Large Language Models",
-      "publisher": "arXiv",
-      "releaseDate": "2025-01-17",
-      "summary": "We investigate the relationship between the geometry of token embeddings and their role in next token prediction."
-    },
-    {
       "name": "Persistent Topological Features in Large Language Models",
-      "publisher": "ICML 2025",
+      "publisher": "ICML 2025 (Poster)",
       "releaseDate": "2024-10-14",
       "url": "https://arxiv.org/abs/2410.11042",
       "summary": "We use zigzag persistence to describe data undergoing dynamic transformations across layers of LLMs."
@@ -106,11 +121,18 @@
   ],
   "certificates": [
     {
+      "name": "Verified Mechanisms",
+      "date": "2026-08-01",
+      "issuer": "Independent research project, London",
+      "url": "https://verifiedmechanisms.ai",
+      "summary": "Research lead. LLM agents propose and formally verify theorems about internal computations in transformers. Secured project funding in the grantmaking.ai Launch Round."
+    },
+    {
       "name": "ML Alignment & Theory Scholars Program (MATS 9.0)",
       "date": "2026-01-01",
-      "issuer": "Simplex AI Safety, Berkeley",
+      "issuer": "Simplex AI Safety, Berkeley & London",
       "url": "https://www.matsprogram.org/",
-      "summary": "Interpreting Chain of Thought in Toy Models using Computational Mechanics. Mentors: Adam Shai & Paul Riechers"
+      "summary": "Do Alignment Pretraining if you want your Linear Probes to Work Better. Mentors: Adam Shai & Paul Riechers"
     },
     {
       "name": "Mentorship for Alignment Research Students (MARS 3.0)",
