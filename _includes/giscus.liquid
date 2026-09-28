@@ -1,7 +1,20 @@
-<div id="giscus_thread" style="max-width: {{ site.max_width }}; margin: 0 auto;">
+<div id="giscus_thread" style="max-width: {{ site.max_width }}; margin: 3rem auto 0;">
   {% if site.giscus.repo %}
     <script>
+      {% if site.giscus.custom_theme %}
+        // The custom themes are stylesheets of this site, which giscus loads by their full URL.
+        let giscusThemeUrl = (theme) => {
+          let themes = {
+            light: '{{ site.giscus.custom_theme.light | relative_url }}',
+            dark: '{{ site.giscus.custom_theme.dark | relative_url }}',
+          };
+          return window.location.origin + themes[theme];
+        };
+      {% endif %}
       let giscusTheme = determineComputedTheme();
+      if (typeof giscusThemeUrl === 'function') {
+        giscusTheme = giscusThemeUrl(giscusTheme);
+      }
       let giscusAttributes = {
         src: 'https://giscus.app/client.js',
         'data-repo': '{{ site.giscus.repo }}',

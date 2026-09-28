@@ -113,6 +113,9 @@ giscus:
   reactions_enabled: 0
   input_position: bottom
   theme: preferred
+  custom_theme: # the themes of giscus without the number of comments (see _sass/_giscus.scss)
+    light: /assets/css/giscus/light.css
+    dark: /assets/css/giscus/dark.css
   emit_metadata: 0
   lang: en
 # 

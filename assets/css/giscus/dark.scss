@@ -1,0 +1,9 @@
+---
+# Dark theme for the giscus comments, loaded by giscus inside its iframe
+---
+@charset "utf-8";
+
+@import "giscus";
+
+@include giscus-base-dark;
+@include giscus-site;
