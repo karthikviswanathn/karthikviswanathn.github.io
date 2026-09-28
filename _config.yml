@@ -110,7 +110,7 @@ giscus:
   category_id: DIC_kwDONs7IkM4DGlrp
   mapping: title
   strict: 1
-  reactions_enabled: 1
+  reactions_enabled: 0
   input_position: bottom
   theme: preferred
   emit_metadata: 0
