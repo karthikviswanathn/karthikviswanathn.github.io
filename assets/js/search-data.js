@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
+        },{id: "nav-publications",
           title: "publications",
           description: "",
           section: "Navigation",
@@ -30,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-workshop-announcement-interpretability-in-llms-using-geometric-and-statistical-methods-i-am-organizing-a-workshop-taking-place-on-may-27-28-where-we-will-explore-recent-developments-in-interpretability-for-large-language-models-llms-using-geometric-and-statistical-methods-for-further-details-check-out-the-workshop-page",
+        },{id: "post-some-resources-for-physicists-transitioning-into-ai-safety",
+      
+        title: "Some resources for physicists transitioning into AI safety",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/resources-for-physicists-transitioning-into-ai-safety/";
+        
+      },
+    },{id: "news-workshop-announcement-interpretability-in-llms-using-geometric-and-statistical-methods-i-am-organizing-a-workshop-taking-place-on-may-27-28-where-we-will-explore-recent-developments-in-interpretability-for-large-language-models-llms-using-geometric-and-statistical-methods-for-further-details-check-out-the-workshop-page",
           title: 'Workshop Announcement: Interpretability in LLMs using Geometric and Statistical Methods I am organizing...',
           description: "",
           section: "News",},{id: "news-i-m-participating-in-mars-3-0-mentorship-for-alignment-research-students-a-research-program-run-by-the-cambridge-ai-safety-hub-as-part-of-this-program-i-will-be-working-alongside-a-group-of-talented-researchers-on-problems-related-to-chain-of-thought-reasoning-in-ai-systems",
@@ -44,6 +62,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-have-been-selected-for-the-mats-extension-phase-in-london-where-i-am-continuing-my-research-from-the-program-my-research-investigates-the-representation-level-picture-of-alignment-pretraining-comparing-how-models-acquire-a-preference-through-post-training-versus-incorporating-it-directly-during-pretraining-and-what-mechanistic-differences-this-leaves-behind-in-their-internal-representations",
           title: 'I have been selected for the MATS extension phase in London, where I...',
+          description: "",
+          section: "News",},{id: "news-i-am-starting-a-three-month-pilot-of-verified-mechanisms-a-project-on-formally-verified-autoresearch-for-theoretical-mechanistic-interpretability",
+          title: 'I am starting a three-month pilot of Verified Mechanisms, a project on formally...',
+          description: "",
+          section: "News",},{id: "news-i-will-be-joining-the-data-science-amp-amp-ai-lab-dlab-at-epfl-in-lausanne-as-a-postdoctoral-researcher-in-november-where-i-will-be-working-with-robert-west-on-ai-alignment-and-safe-ai",
+          title: 'I will be joining the Data Science &amp;amp;amp; AI Lab (dlab) at EPFL...',
           description: "",
           section: "News",},{
         id: 'social-email',
