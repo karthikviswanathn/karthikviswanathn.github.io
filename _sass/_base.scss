@@ -248,6 +248,31 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Footnotes
+
+.footnotes {
+  margin-top: 2.5rem;
+  font-size: 0.8rem;
+
+  // short rule above the notes, as in print
+  &::before {
+    content: "";
+    display: block;
+    width: 8rem;
+    margin-bottom: 0.75rem;
+    border-top: 1px solid var(--global-divider-color);
+  }
+
+  ol {
+    margin-bottom: 0;
+    padding-left: 1.25rem;
+  }
+
+  p {
+    margin-bottom: 0.25rem;
+  }
+}
+
 // Navbar customization
 
 .navbar {

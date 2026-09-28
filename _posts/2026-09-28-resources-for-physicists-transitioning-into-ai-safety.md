@@ -37,4 +37,4 @@ Two LessWrong posts are useful for deciding where to start:
 - **[Roadmap through AI safety programs for early-career technical researchers](https://www.lesswrong.com/posts/muH6H9i8CtNAubcoo/roadmap-through-ai-safety-programs-for-early-career):** An overview of introductory courses, first research opportunities and more selective fellowships.
 - **[How to Become a Mechanistic Interpretability Researcher](https://www.lesswrong.com/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher)** by Neel Nanda: Practical advice on learning the essentials and progressing through small research projects.
 
-[^1]: This is perhaps an incomplete list. Feel free to comment in case I am missing something.
+[^1]: This is perhaps an incomplete list. Feel free to comment below or [email me](mailto:{{ site.data.socials.email | encode_email }}) in case I am missing something.
