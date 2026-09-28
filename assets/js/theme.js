@@ -102,7 +102,8 @@ let setGiscusTheme = (theme) => {
 
   sendMessage({
     setConfig: {
-      theme: theme,
+      // giscusThemeUrl is defined by _includes/giscus.liquid when the site has custom giscus themes
+      theme: typeof giscusThemeUrl === "function" ? giscusThemeUrl(theme) : theme,
     },
   });
 };
