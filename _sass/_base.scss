@@ -227,6 +227,13 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// On wide screens, a narrower profile image lines up with the about text.
+@media (min-width: 992px) {
+  .profile {
+    width: 22%;
+  }
+}
+
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;
