@@ -114,8 +114,8 @@ giscus:
   input_position: top
   theme: preferred
   custom_theme: # stylesheets of this site, in the style of LessWrong comments (see _sass/_giscus.scss)
-    light: /assets/css/giscus-light.css
-    dark: /assets/css/giscus-dark.css
+    light: /assets/css/giscus/light.css
+    dark: /assets/css/giscus/dark.css
   emit_metadata: 0
   lang: en
 # 

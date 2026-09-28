@@ -1,5 +1,7 @@
 // Custom themes for the giscus comments, in the style of LessWrong comments.
-// giscus loads assets/css/giscus-light.css or assets/css/giscus-dark.css inside its iframe.
+// giscus loads assets/css/giscus/light.css or assets/css/giscus/dark.css inside its iframe.
+// They are in a folder of their own to keep them out of PurgeCSS (see purgecss.config.js),
+// which would remove their rules because no page of this site uses the classes of giscus.
 
 // Colour variables of the giscus "light" and "dark" themes, which the custom themes build on.
 // MIT License, Copyright (c) 2018 GitHub Inc., https://github.com/primer/primitives/blob/main/LICENSE
