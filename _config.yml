@@ -82,33 +82,32 @@ openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX
 google_site_verification: # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
+# -----------------------------------------------------------------------------
+# Blog
+# -----------------------------------------------------------------------------
+
+blog_name: # leave blank to hide the header bar on the blog page
+blog_description:
+permalink: /blog/:year/:title/
+lsi: false
+
+# Pagination
+pagination:
+  enabled: true
+
+related_blog_posts:
+  enabled: true
+  max_related: 5
+
 # =============================================================================
-# # -----------------------------------------------------------------------------
-# # Blog
-# # -----------------------------------------------------------------------------
-# 
-# =============================================================================
-# blog_name: personal blog
-# blog_description: personal thoughts and updates
-# permalink: /blog/:year/:title/
-# lsi: false
-# 
-# # Pagination
-# pagination:
-#   enabled: true
-# 
-# related_blog_posts:
-#   enabled: true
-#   max_related: 5
-# =============================================================================
-# 
+#
 # # Giscus comments (RECOMMENDED)
 # # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
   repo: karthikviswanathn/karthikviswanathn.github.io # replace with the GitHub repo hosting the website
-  repo_id: # optional: specify repo_id from giscus settings
-  category: Comments # category where discussions are created
-  category_id: # optional: specify category_id from giscus settings
+  repo_id: R_kgDONs7IkA
+  category: Announcements # category where discussions are created
+  category_id: DIC_kwDONs7IkM4DGlrp
   mapping: title
   strict: 1
   reactions_enabled: 1
@@ -272,8 +271,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+display_tags: [] # these tags will be displayed on the front page of your blog
+display_categories: [] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
