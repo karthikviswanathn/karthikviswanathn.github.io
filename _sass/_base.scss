@@ -315,7 +315,9 @@ sup[id^="fnref"] {
   .sidenote {
     display: block;
     position: absolute;
-    left: calc(100% + 32px);
+    // no calc() here: the minifier of the production build breaks additions in calc()
+    left: 100%;
+    margin-left: 32px;
     width: 220px;
     max-height: 200px;
     overflow: hidden;
@@ -333,7 +335,8 @@ sup[id^="fnref"] {
   display: none;
   position: absolute;
   z-index: 1000;
-  max-width: min(400px, calc(100vw - 32px));
+  width: 400px;
+  max-width: 90vw;
   padding: 10px 12px;
   border: 1px solid var(--global-divider-color);
   border-radius: 3px;
