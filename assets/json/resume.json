@@ -78,7 +78,7 @@
   "publications": [
     {
       "name": "TopoFisher: Learning Topological Summary Statistics by Maximizing Fisher Information",
-      "publisher": "Under review",
+      "publisher": "NeurIPS 2026 (Poster)",
       "releaseDate": "2026-05-01",
       "url": "https://arxiv.org/abs/2605.07720",
       "summary": "We learn topological summary statistics for cosmological inference by maximizing the Fisher information of persistent homology features."
