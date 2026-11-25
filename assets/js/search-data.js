@@ -105,7 +105,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/karthik-viswanathan-6b8a0111a", "_blank");
+          window.open("https://www.linkedin.com/in/kviswanathn", "_blank");
         },
       },{
         id: 'social-lesswrong',
