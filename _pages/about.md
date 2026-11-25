@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.uva.nl/en/profile/v/i/k.viswanathan/k.viswanathan.html'>PhD, University of Amsterdam</a>
+subtitle: <a href='https://dlab.epfl.ch/'>Postdoctoral Researcher, EPFL</a>
 
 profile:
   align: right

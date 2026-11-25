@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Karthik Viswanathan",
-    "label": "Researcher",
+    "label": "Postdoctoral Researcher",
     "image": "",
     "email": "vkarthik095@gmail.com",
     "phone": "(31) 684103282",
     "url": "https://karthikviswanathn.github.io/",
-    "summary": "Topological Data Analysis for Cosmology \\( \\to \\) Interpretability in LLMs",
+    "summary": "AI alignment researcher focused on mechanistic interpretability and interpretability-informed control",
     "location": {
       "address": "29 Annamalai Colony, Virugambakkam",
       "postalCode": "600092",
@@ -61,6 +61,13 @@
   ],
   "work": [
     {
+      "name": "EPFL, Lausanne, Switzerland",
+      "position": "Postdoctoral Researcher",
+      "url": "https://dlab.epfl.ch/",
+      "startDate": "2026-11-15",
+      "summary": "Data Science & AI Lab (dlab). Model raising via alignment pretraining. Supervisor: Prof. Robert West"
+    },
+    {
       "name": "Goldman Sachs, Bangalore, India",
       "position": "Surveillance Analyst",
       "startDate": "2017-05-29",
@@ -76,6 +83,13 @@
     }
   ],
   "publications": [
+    {
+      "name": "Formally Verified Autoresearch for Analyzing the Expressivity of Multi-Head Attention",
+      "publisher": "NeurIPS 2026: Workshop for Autonomous Machine Learning Research (Oral)",
+      "releaseDate": "2026-10-01",
+      "url": "https://arxiv.org/abs/2610.25341",
+      "summary": "We characterize how the expressivity of multi-head attention depends on the number of heads, with results discovered and formalized in Lean by a frontier model."
+    },
     {
       "name": "TopoFisher: Learning Topological Summary Statistics by Maximizing Fisher Information",
       "publisher": "NeurIPS 2026 (Poster)",
