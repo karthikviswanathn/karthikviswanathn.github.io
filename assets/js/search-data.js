@@ -69,6 +69,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-joining-the-data-science-amp-amp-ai-lab-dlab-at-epfl-in-lausanne-as-a-postdoctoral-researcher-in-november-where-i-will-be-working-with-robert-west-on-ai-alignment-and-safe-ai",
           title: 'I will be joining the Data Science &amp;amp;amp; AI Lab (dlab) at EPFL...',
           description: "",
+          section: "News",},{id: "news-i-m-attending-neurips-2026-where-i-ll-be-presenting-some-of-my-recent-work-conference-topofisher-learning-topological-summary-statistics-by-maximizing-fisher-information-workshop-for-autonomous-machine-learning-research-oral-formally-verified-autoresearch-for-analyzing-the-expressivity-of-multi-head-attention",
+          title: 'I’m attending NeurIPS 2026, where I’ll be presenting some of my recent work:...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
