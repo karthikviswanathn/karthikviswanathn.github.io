@@ -12,7 +12,7 @@ news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral researcher at [DLAB](https://dlab.epfl.ch/) at [EPFL](https://www.epfl.ch/), supervised by [Prof. Robert West](https://dlab.epfl.ch/people/west/) and working on model raising to make alignment part of pretraining itself.
+I am a postdoctoral researcher in [DLAB](https://dlab.epfl.ch/) at [EPFL](https://www.epfl.ch/), supervised by [Prof. Robert West](https://dlab.epfl.ch/people/west/) and working on model raising to make alignment part of pretraining itself.
 
 I am an AI alignment researcher focused on mechanistic interpretability and interpretability-informed control. My MATS 9 work at Simplex examines how post-training affects internal mechanisms. Previously, at MARS 3.0, I worked with Geodesic Research on architectures for externalised reasoning. Before moving into alignment research, I was an astrophysicist and completed a PhD at the University of Amsterdam on geometric methods for understanding language models and cosmic structures.
 
