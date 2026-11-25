@@ -12,6 +12,8 @@ news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-I recently completed my PhD at the University of Amsterdam in the Institute of Physics on geometric and statistical physics-based methods for interpretability of large language models. Prior to this, I was working on analyzing the large-scale structure of the universe using topological data analysis.
+I am a postdoctoral researcher at [DLAB](https://dlab.epfl.ch/) at [EPFL](https://www.epfl.ch/), supervised by [Prof. Robert West](https://dlab.epfl.ch/people/west/) and working on model raising to make alignment part of pretraining itself.
 
-My interdisciplinary journey began with **competitive programming**, progressed through developing machine learning models as a **surveillance analyst** at Goldman Sachs, and continued with my master's in **theoretical physics**. This cross-domain experience has enabled me to transition smoothly across disciplines and contribute to both practical implementations and theoretical research.
+I am an AI alignment researcher focused on mechanistic interpretability and interpretability-informed control. My MATS 9 work at Simplex examines how post-training affects internal mechanisms. Previously, at MARS 3.0, I worked with Geodesic Research on architectures for externalised reasoning. Before moving into alignment research, I was an astrophysicist and completed a PhD at the University of Amsterdam on geometric methods for understanding language models and cosmic structures.
+
+My interdisciplinary journey began with **competitive programming**, representing India at the ACM ICPC World Finals in 2015, progressed through developing machine learning models as a **surveillance analyst** at Goldman Sachs, and continued with a master's in **theoretical physics**. This experience has enabled me to transition across disciplines and contribute to both practical implementation and theoretical research. My background in physics and engineering equips me to pursue ambitious research questions while staying grounded in the practical steps needed to make progress.
